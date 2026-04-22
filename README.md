@@ -1,3 +1,10 @@
+# Start and stop
+```bash
+docker compose up -d
+
+docker compose down
+```
+
 # MLflow On-Premise Deployment using Docker Compose
 Easily deploy an MLflow tracking server with 1 command.
 
